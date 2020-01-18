@@ -5,7 +5,8 @@ Repository ini berisikan pembelajaran ReactJS yang dipelajari dari berbagai sumb
 
 Referensi pembelajaran web :
 1. https://reactjs.org/
-2. 
+2. https://nodejs.org/en/
+3. 
 
 
 Referensi Video Pembelajaran dapat dilihat pada chanel youtube refri rifwan pilih play list lalu Belajar ReactJS
